@@ -1,0 +1,23 @@
+{
+  "name": "studykoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/791060555/study-Koa.git"
+  },
+  "author": "pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/791060555/study-Koa/issues"
+  },
+  "homepage": "https://github.com/791060555/study-Koa#readme"
+}
